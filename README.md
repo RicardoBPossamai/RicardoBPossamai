@@ -22,5 +22,5 @@
 
 ## 📫 Contato
 
-- LinkedIn: seu_link
+- LinkedIn:
 - Email: Ricardo.possamai@uol.com.br
