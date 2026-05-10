@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou Ricardo 👋
 
-<!--
-**RicardoBPossamai/RicardoBPossamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software  
+🚀 Desenvolvedor focado em Java, Python e Flutter  
+📚 Atualmente estudando desenvolvimento web e banco de dados  
+🎮 Interesse em games, interfaces e aplicações modernas  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- Flutter
+- HTML/CSS
+- Git/GitHub
+- MongoDB
+
+## 📌 Projetos em destaque
+
+- Projeto Jornada
+- PhotoGeoEditor
+- Sistema Cassandra
+
+## 📫 Contato
+
+- LinkedIn: seu_link
+- Email: Ricardo.possamai@uol.com.br
